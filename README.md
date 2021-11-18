@@ -5,7 +5,7 @@
 
 
 # Kaggle project  : Jane-Street-Market-Prediction
-In this project, Jane Street which a quantitative trading company ,challenged us to build our own quantitative trading model to maximize returns using market data from a major global stock exchange. Next, they’ll test the predictiveness of our models against future market returns.
+In this project, Jane Street which is a quantitative trading company ,challenged us to build our own quantitative trading model to maximize returns using market data from a major global stock exchange. Next, they’ll test the predictiveness of our models against future market returns.
 
 
 <img src="https://miro.medium.com/max/1400/1*HgsGnb5ZSSBX0AsdmJjv_Q.png" width=100%>
@@ -32,13 +32,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:Taher-web-dev/Riiid-Answer-Correctness-Prediction.git
+$ git clone git@github.com:Taher-web-dev/Jane-Street-Market-Prediction.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd Riiid-Answer-Correctness-Prediction
+$ cd Jane-Street-Market-Prediction
 ```
 
 
